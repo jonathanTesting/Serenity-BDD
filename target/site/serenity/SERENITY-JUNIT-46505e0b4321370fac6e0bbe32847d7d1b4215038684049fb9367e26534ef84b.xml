@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="testcases.LoginTest" skipped="0" tests="1" time="2.05" timestamp="2022-03-07 11:15:13"><testcase classname="testcases.LoginTest" name="Executing Login test"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 93&#10;Current browser version is 98.0.4758.102 with binary path /usr/bin/google-chrome&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'samann-HP-Notebook', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-30-generic', java.version: '1.8.0_312'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: #0 0x55d583413583 &lt;unknown&gt;&#10;#1 0x55d583187a38 &lt;unknown&gt;&#10;#2 0x55d5831ae4e1 &lt;unknown&gt;&#10;#3 0x55d5831a9d03 &lt;unknown&gt;&#10;#4 0x55d5831a64df &lt;unknown&gt;&#10;#5 0x55d5831e01e2 &lt;unknown&gt;&#10;#6 0x55d5831da643 &lt;unknown&gt;&#10;#7 0x55d5831b0b94 &lt;unknown&gt;&#10;#8 0x55d5831b1b85 &lt;unknown&gt;&#10;#9 0x55d583443c6e &lt;unknown&gt;&#10;#10 0x55d583459975 &lt;unknown&gt;&#10;#11 0x55d583444bc5 &lt;unknown&gt;&#10;#12 0x55d58345afb5 &lt;unknown&gt;&#10;#13 0x55d58343984b &lt;unknown&gt;&#10;#14 0x55d583476248 &lt;unknown&gt;&#10;#15 0x55d5834763c8 &lt;unknown&gt;&#10;#16 0x55d58349073d &lt;unknown&gt;&#10;#17 0x7fd3cc469609 start_thread&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 93
+Current browser version is 98.0.4758.102 with binary path /usr/bin/google-chrome
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'samann-HP-Notebook', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-30-generic', java.version: '1.8.0_312'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: #0 0x55d583413583 &lt;unknown&gt;
+#1 0x55d583187a38 &lt;unknown&gt;
+#2 0x55d5831ae4e1 &lt;unknown&gt;
+#3 0x55d5831a9d03 &lt;unknown&gt;
+#4 0x55d5831a64df &lt;unknown&gt;
+#5 0x55d5831e01e2 &lt;unknown&gt;
+#6 0x55d5831da643 &lt;unknown&gt;
+#7 0x55d5831b0b94 &lt;unknown&gt;
+#8 0x55d5831b1b85 &lt;unknown&gt;
+#9 0x55d583443c6e &lt;unknown&gt;
+#10 0x55d583459975 &lt;unknown&gt;
+#11 0x55d583444bc5 &lt;unknown&gt;
+#12 0x55d58345afb5 &lt;unknown&gt;
+#13 0x55d58343984b &lt;unknown&gt;
+#14 0x55d583476248 &lt;unknown&gt;
+#15 0x55d5834763c8 &lt;unknown&gt;
+#16 0x55d58349073d &lt;unknown&gt;
+#17 0x7fd3cc469609 start_thread
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 93
+Current browser version is 98.0.4758.102 with binary path /usr/bin/google-chrome
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'samann-HP-Notebook', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.13.0-30-generic', java.version: '1.8.0_312'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: #0 0x55d583413583 &lt;unknown&gt;
+#1 0x55d583187a38 &lt;unknown&gt;
+#2 0x55d5831ae4e1 &lt;unknown&gt;
+#3 0x55d5831a9d03 &lt;unknown&gt;
+#4 0x55d5831a64df &lt;unknown&gt;
+#5 0x55d5831e01e2 &lt;unknown&gt;
+#6 0x55d5831da643 &lt;unknown&gt;
+#7 0x55d5831b0b94 &lt;unknown&gt;
+#8 0x55d5831b1b85 &lt;unknown&gt;
+#9 0x55d583443c6e &lt;unknown&gt;
+#10 0x55d583459975 &lt;unknown&gt;
+#11 0x55d583444bc5 &lt;unknown&gt;
+#12 0x55d58345afb5 &lt;unknown&gt;
+#13 0x55d58343984b &lt;unknown&gt;
+#14 0x55d583476248 &lt;unknown&gt;
+#15 0x55d5834763c8 &lt;unknown&gt;
+#16 0x55d58349073d &lt;unknown&gt;
+#17 0x7fd3cc469609 start_thread
+). See below for more details.
+testcases.LoginTest.doLogin(LoginTest.java:24)
+</system-err></testcase></testsuite>
